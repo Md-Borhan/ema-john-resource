@@ -7,9 +7,8 @@
 }
 .product img{
     height: 285px;
-    width: 100%;
     padding: 8px;
-    border-radius: 8px;
+    border-radius: 16px;
 }
 .product-info {
     padding: 14px;
