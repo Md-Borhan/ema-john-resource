@@ -1,0 +1,49 @@
+.reviewOrder{
+    width: 100%;
+    border: 1px solid #95A0A7;
+    border-radius: 8px;
+    padding:  8px 25px 8px 8px;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.reviewDetails{
+    display: flex;
+    gap: 17px;
+    align-items: center;
+}
+.reviewContent p {
+    line-height: 25px;
+    margin: 0;
+    color: #1C2B35;
+}
+.extraColor{
+    color: #FF9900;
+}
+.reviewContent .title{
+font-size: 21px;
+letter-spacing: 0.0015em;
+
+color: #1C2B35;
+
+}
+.reviewImg{
+    width: 91px;height: 91px;
+}
+.reviewImg img{
+    height: 100%;
+    width: 100%;
+    border-radius: 8px;
+}
+.deleteBtn {
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    background: rgba(235, 87, 87, 0.3);
+    font-size: 27px;
+    color: #EB5757;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
